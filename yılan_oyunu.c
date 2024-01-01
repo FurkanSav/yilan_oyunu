@@ -4,9 +4,9 @@
 #include <time.h>
 #include <stdlib.h>
 
-// C ile Yýlan oyunu
+// C ile Yilan oyunu
 // 01.01.2024
-// Furkan SARI-2304099983-Elektrik-Elektronik müh./2.Sýnýf
+// Furkan SARI-2304099983-Elektrik-Elektronik mÃ¼h./2.Sinif
 
 int saha[80][23]={0};
 int kuyrukSutun[500];
